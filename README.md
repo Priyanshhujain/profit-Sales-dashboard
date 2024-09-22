@@ -1,6 +1,7 @@
-# Profit-Sales-Dashboard
+# Profit-Sales Dashboard
 
 ## Problem Statement
+
 The goal of this dashboard is to provide key insights into the company's profit and sales performance. This analysis helps decision-makers understand:
 
 - Sales trends over time
@@ -12,6 +13,7 @@ The goal of this dashboard is to provide key insights into the company's profit 
 This Power BI dashboard aims to offer a comprehensive view of the organization's sales and profit data, empowering leadership with the tools to make data-driven decisions and optimize business outcomes.
 
 ## Overview
+
 This repository contains a **Power BI Dashboard** designed to provide a comprehensive analysis of profit and sales data. The dashboard enables users to explore key business metrics, including revenue trends, profit margins, and sales performance across different regions and product categories.
 
 The dashboard is built with a focus on interactive data visualization, allowing users to gain insights into business performance and make data-driven decisions efficiently.
@@ -35,15 +37,29 @@ The dashboard is built with a focus on interactive data visualization, allowing 
 - KPI cards to display key metrics at a glance.
 - Filters and slicers for dynamic data exploration.
 
+## Data Sources
+
+The dashboard uses data on sales transactions, product details, regional performance metrics, and time-series data to offer a robust analysis of sales and profit trends.
+
 ## Requirements
 
 To view and interact with the dashboard:
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 2. Download the `.pbix` file from this repository.
-3. Open the file in Power BI Desktop to view and interact with the data.
+3. Open the file in Power BI Desktop to explore the data and visualizations.
 
-## Usage
+## How to Use
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+    ```bash
+    git clone https://github.com/your-username/your-repo-name.git
+    ```
+
+2. **Download the Power BI file**:
+    After cloning, download the `.pbix` file from the repository and open it with Power BI Desktop.
+
+3. **Explore the Dashboard**:
+   - Use the available filters and slicers to dynamically adjust the data view.
+   - Analyze trends and compare performance across different categories and regions.
+
+
